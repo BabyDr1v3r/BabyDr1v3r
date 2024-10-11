@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Exequiel Segura 👋
 
-<!--
-**BabyDr1v3r/BabyDr1v3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Web Developer** with expertise in creating efficient and user-friendly applications. Currently, I'm focused on developing a library of reusable UI components using **Vue 3**, **TypeScript**, and **TailwindCSS**. My goal is to enhance front-end development efficiency and user experience through highly customizable, accessible, and responsive designs.
 
-Here are some ideas to get you started:
+## 🌟 Technologies I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, TypeScript
+- **Frameworks**: Vue.js, Nuxt.js
+- **Styling**: TailwindCSS
+- **Testing**: Vitest
+- **Tools**: Git, npm
+
+## 📈 Current Projects
+
+- Developing a library of reusable UI components to streamline front-end workflows.
+
+## 📫 Let's Connect!
+
+Feel free to reach out through my LinkedIn or check out my projects below!
+
+[LinkedIn](https://www.linkedin.com/in/exequiel-segura/) | [GitHub]([https://github.com/yourusername](https://github.com/BabyDr1v3r) 
+
