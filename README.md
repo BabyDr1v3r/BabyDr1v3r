@@ -18,5 +18,5 @@ I'm a passionate **Web Developer** with expertise in creating efficient and user
 
 Feel free to reach out through my LinkedIn or check out my projects below!
 
-[LinkedIn](https://www.linkedin.com/in/exequiel-segura/) | [GitHub]([https://github.com/yourusername](https://github.com/BabyDr1v3r)]
+[LinkedIn](https://www.linkedin.com/in/exequiel-segura/) | [GitHub]([https://github.com/BabyDr1v3r])
 
