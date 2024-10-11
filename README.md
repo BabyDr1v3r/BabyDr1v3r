@@ -4,11 +4,14 @@ I'm a passionate **Web Developer** with expertise in creating efficient and user
 
 ## 🌟 Technologies I Work With
 
-- **Languages**: JavaScript, TypeScript
-- **Frameworks**: Vue.js, Nuxt.js
-- **Styling**: TailwindCSS
-- **Testing**: Vitest
-- **Tools**: Git, npm
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks**: Vue.js, Nuxt.js, React.js
+- **Styling**: TailwindCSS, Bootstrap, SCSS
+- **Testing**: Vitest, Jest
+- **Version Control**: Git, GitHub
+- **Tools**: npm, Webpack, Vite
+- **APIs**: RESTful APIs, GraphQL
+- **Databases**: MongoDB, Firebase
 
 ## 📈 Current Projects
 
@@ -18,5 +21,4 @@ I'm a passionate **Web Developer** with expertise in creating efficient and user
 
 Feel free to reach out through my LinkedIn or check out my projects below!
 
-[LinkedIn](https://www.linkedin.com/in/exequiel-segura/) | [GitHub]([https://github.com/BabyDr1v3r])
-
+[LinkedIn](https://www.linkedin.com/in/exequiel-segura/) | [GitHub](https://github.com/BabyDr1v3r)
