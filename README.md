@@ -4,14 +4,13 @@ I'm a passionate **Web Developer** with expertise in creating efficient and user
 
 ## 🌟 Technologies I Work With
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Languages**: TypeScript, JavaScript, CSS, SASS
+- **Frontend**: VueJS, React, Nuxt ,Next.js, TailwindCSS
+- **Backend**: NestJS, Express ,Fastify ,Node.js
 - **Frameworks**: Vue.js, Nuxt.js, React.js
-- **Styling**: TailwindCSS, Bootstrap, SCSS
 - **Testing**: Vitest, Jest
-- **Version Control**: Git, GitHub
-- **Tools**: npm, Webpack, Vite
-- **APIs**: RESTful APIs, GraphQL
-- **Databases**: MongoDB, Firebase
+- **Tools**: GitHub, Postman, Insomnia, Docker
+- **Database**: MySQL, Prisma, PostgreSQL
 
 ## 📈 Current Projects
 
@@ -21,4 +20,4 @@ I'm a passionate **Web Developer** with expertise in creating efficient and user
 
 Feel free to reach out through my LinkedIn or check out my projects below!
 
-[LinkedIn](https://www.linkedin.com/in/exequiel-segura/) | [GitHub](https://github.com/BabyDr1v3r)
+[LinkedIn](https://www.linkedin.com/in/exequiel-segura/) | [GitHub](https://github.com/BabyDr1v3r) | [Portfolio](https://exequiel-segura.vercel.app)
